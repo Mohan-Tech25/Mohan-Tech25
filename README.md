@@ -50,9 +50,7 @@
 
 
 I'm also interested in:
-- 🧠 Psychology & Philosophy 
 - 📱 Tech Trends, AI & Data Science
-- 🚀 Startups & Business
 - 🛠️ Application & Software Projects
 - 📚 Continuous Learning & Personal Growth
 
